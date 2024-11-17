@@ -16,6 +16,11 @@ from d_deployment.dash_class import simulate_real_time_data_streaming
 from c_modeling.model_evaluation import load_latest_model
 from b_analysis.feature_engineering import preprocessing_pipeline_train
 from c_modeling.model_pipeline import model_training_pipeline
+# 다른 파일에서 agent와 conversation 사용하기
+from lang_chain_class import create_agent
+
+# agent와 conversation 객체 생성
+agent, conversation = create_agent()
 
 # Page title and styling
 st.markdown("""
@@ -92,12 +97,12 @@ if user_input:
     st.session_state["messages"].append({"role": "user", "content": user_input})
     
     # LangChain의 ConversationChain을 사용하여 대화 생성
-    conversation = st.session_state["conversation"]
-    response = conversation.predict(input=user_input)
+    # agent를 사용하여 응답을 생성
+    response_from_agent = agent.run(user_input)  # agent를 사용하여 응답 받기
     
     # 응답 메시지 저장
-    st.session_state["messages"].append({"role": "assistant", "content": response})
-    st.session_state.generated.append(response)
+    st.session_state["messages"].append({"role": "assistant", "content": response_from_agent})
+    st.session_state.generated.append(response_from_agent)
 
 # Display chatbot messages
 if st.session_state["messages"]:
