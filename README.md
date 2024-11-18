@@ -45,6 +45,15 @@ conda activate my_project_env
 ```{bash}
 python main.py
 ```
-위와같이 터미널에서 실행하시면 파이프라인을 통해 연결해둔 전처리부터 모델 저장까지 한번에 되는 것을 확인할 수 있습니다.
+위와 같이 터미널에서 실행하시면 파이프라인을 통해 연결해둔 전처리부터 모델 저장까지 한번에 되는 것을 확인할 수 있습니다.
+
 자세한 전처리 및 모델링은 b_analysis폴더와 c_modeling 폴더의 .py파일을 확인해주세요.
+
+### 2. 배포 및 대시보드 확인
+```{bash}
+streamlit run dash.py
+```
+위와 같이 터미널 창에서 실행하시면, 구현된 대시보드를 확인할 수 있습니다.
+
+자세한 배포과정 및 Lang chain 방법은 d_deployment 파일과 lang_chain_class.py, dash.py에서 확인할 수 있습니다.
 
