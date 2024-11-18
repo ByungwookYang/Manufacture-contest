@@ -14,19 +14,30 @@
 # 구현방법
 ### 0. 환경설정
 ```{python}
-conda 환경 생성
+# conda 환경 생성
 conda env create -f environment.yml
 
-conda 환경 활성화
+# conda 환경 활성화
 conda activate my_project_env
 
-conda 환경 비활성화
+# conda 환경 비활성화
 conda deactivate
 
-conda 환경 삭제
+# conda 환경 삭제
 conda env remove -n my_project_env
 ```
 environment.yml 에 사용한 패키지를 모두 저장해두었습니다.
-터미널창에 conda env create -f environment.yml -> conda activate my_project_env 실행해주세요.
+터미널창에 
+```{bash}
+# conda 환경 생성
+conda env create -f environment.yml
+```
+
+```{bash}
+# conda 환경 생성
+conda activate my_project_env
+```
+
+위와 같은 순서로 실행해주세요.
 구현한 환경과 동일한 환경셋팅이 완료됩니다.
 
