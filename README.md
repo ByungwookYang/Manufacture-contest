@@ -25,3 +25,8 @@ conda deactivate
 
 conda 환경 삭제
 conda env remove -n my_project_env
+
+environment.yml 에 사용한 패키지를 모두 저장해두었습니다.
+터미널창에 conda env create -f environment.yml -> conda activate my_project_env 실행해주세요.
+구현한 환경과 동일한 환경셋팅이 완료됩니다.
+
