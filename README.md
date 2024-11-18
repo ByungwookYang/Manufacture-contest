@@ -10,17 +10,18 @@
 더불어 모델인 LLM GPT-3.5 Turbo API 를 로 호출하여 대시보드에 탑재함으로써 불량 데이터의 특징을 이해하고 필요한 조치를 즉각적으로 취할 수 있는 인터페이스를 제공했습니다.
 
 
+ 
 # 구현방법
-# 환경설정
 
-# conda 환경 생성
+### 0. 환경설정
+conda 환경 생성
 conda env create -f environment.yml
 
-# conda 환경 활성화
+conda 환경 활성화
 conda activate my_project_env
 
-# conda 환경 비활성화
+conda 환경 비활성화
 conda deactivate
 
-# conda 환경 삭제
+conda 환경 삭제
 conda env remove -n my_project_env
