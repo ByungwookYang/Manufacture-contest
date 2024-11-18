@@ -34,7 +34,7 @@ conda env create -f environment.yml
 ```
 
 ```{bash}
-# conda 환경 생성
+# conda 환경 활성화
 conda activate my_project_env
 ```
 
