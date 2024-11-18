@@ -51,3 +51,9 @@ streamlit run dash.py
 
 자세한 배포과정 및 Lang chain 방법은 d_deployment 파일과 lang_chain_class.py, dash.py에서 확인할 수 있습니다.
 
+# 자세한 과정
+[Uploading 경진대회_본선발표자료_fianl.pdf…]()
+
+
+
+
