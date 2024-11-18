@@ -19,12 +19,6 @@ conda env create -f environment.yml
 
 # conda 환경 활성화
 conda activate my_project_env
-
-# conda 환경 비활성화
-conda deactivate
-
-# conda 환경 삭제
-conda env remove -n my_project_env
 ```
 environment.yml 에 사용한 패키지를 모두 저장해두었습니다.
 터미널창에 
@@ -51,7 +45,7 @@ python main.py
 
 ### 2. 배포 및 대시보드 확인
 ```{bash}
-streamlit run dash.py
+streamlit run dash.py
 ```
 위와 같이 터미널 창에서 실행하시면, 구현된 대시보드를 확인할 수 있습니다.
 
