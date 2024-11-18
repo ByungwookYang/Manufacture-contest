@@ -35,7 +35,11 @@ conda activate my_project_env
 위와 같은 순서로 실행해주세요.
 구현한 환경과 동일한 환경셋팅이 완료됩니다.
 
-### 1. 데이터 전처리 및 모델구현, 모델저장
+### 1. openai API 입력하기
+.env 파일과 .straemlit 폴더안에 secret.toml 파일에 openai API를 발급받아 입력해주세요.
+
+
+### 2. 데이터 전처리 및 모델구현, 모델저장
 ```{bash}
 python main.py
 ```
@@ -43,7 +47,7 @@ python main.py
 
 자세한 전처리 및 모델링은 b_analysis폴더와 c_modeling 폴더의 .py파일을 확인해주세요.
 
-### 2. 배포 및 대시보드 확인
+### 3. 배포 및 대시보드 확인
 ```{bash}
 streamlit run dash.py
 ```
