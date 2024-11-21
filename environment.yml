@@ -11,3 +11,19 @@ dependencies:
   - seaborn
   - optuna
   - catboost
+  - streamlit
+  - langchain
+  - openai
+  - pypdf
+  - langchain-experimental
+  - pip
+  - pip:
+      - langchain_community
+      - langchain_openai
+      - streamlit_chat
+      - sentence_transformers
+      - chromadb
+      - tiktoken
+      - langchain_chroma
+      - langchain-experimental
+      - tabulate
