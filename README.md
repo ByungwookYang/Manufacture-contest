@@ -15,7 +15,7 @@
 - **대회명 :** 2024년 제4회 K-인공지능(AI) 제조데이터 분석 경진대회
 - **주최기관 :** 중소벤처기업부, 스마트제조혁신추진단, KAIST
 - **진행기간 :** 20241002 - 20241127
-- **수상 :** 장려상 (6th / 189teams)
+- **수상 :** 장려상 (6th / 189teams) [증빙자료](https://drive.google.com/file/d/1paiydA9lDaxpB6iy4v87lCPf0qd_1AM9/view?usp=sharing)
 
 ---
 
