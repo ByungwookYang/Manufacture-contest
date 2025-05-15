@@ -17,6 +17,11 @@
 - **수상 :** 장려상 (6th / 189teams)
 
 ---
+### **문제 상황**
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/dd428f55-e661-41b8-bce3-1c6274d57c75" />
+
+
+---
 ### 🧠 **구현 아디이어**
 - 생산성 향상 및 작업환경 개선을 위해 LLM 시스템 도입
 - LLM 챗봇 시스템을 이용해 불량으로 예측된 데이터에 대한 설명 요약
