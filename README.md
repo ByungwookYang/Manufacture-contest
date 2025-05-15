@@ -19,7 +19,7 @@
 
 ---
 
-## **문제 상황**
+## **❗ 문제 상황**
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/dd428f55-e661-41b8-bce3-1c6274d57c75" />
 
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 구현과정
+## ⚙️ 구현과정
 
 ### 1) 데이터를 train/test 7:3 split
 
