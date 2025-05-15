@@ -42,6 +42,9 @@
 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/03b5e5bd-a415-4d4d-8e40-721bf2f0e212" />
 
+### 4) 예측된 불량 원인 분석 LLM
+
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/c323c192-1567-4221-bf5b-4e0d326d75bf" />
 
  
 # 구현방법
