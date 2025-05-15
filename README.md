@@ -54,7 +54,7 @@
 [경진대회_본선발표자료_fianl.pdf](https://github.com/user-attachments/files/17793440/_._fianl.pdf)
 
 ---
-## **구현**
+## 💻 **구현**
 <img width="1031" alt="image" src="https://github.com/user-attachments/assets/df22cfc4-c50b-4e7b-9c0c-10b63de322fd" />
 
 <img width="1028" alt="image" src="https://github.com/user-attachments/assets/87baf6e0-2d29-4f92-9218-c8af5cf75643" />
@@ -68,10 +68,6 @@
 <img width="1021" alt="image" src="https://github.com/user-attachments/assets/74829c66-f741-4545-a535-6f91f5441ab5" />
 
 <img width="1031" alt="image" src="https://github.com/user-attachments/assets/b1ba8e9f-1a02-4215-b02f-777fed7ce5f1" />
-
-
-
-
 
 
 ---
