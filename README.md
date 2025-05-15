@@ -32,7 +32,7 @@
 
 ---
 
-## ⚙️ 구현과정
+## ⚙️ 구현 과정
 
 ### 1) 데이터를 train/test 7:3 split
 
@@ -54,12 +54,40 @@
 [경진대회_본선발표자료_fianl.pdf](https://github.com/user-attachments/files/17793440/_._fianl.pdf)
 
 ---
+## **구현**
+<img width="1031" alt="image" src="https://github.com/user-attachments/assets/df22cfc4-c50b-4e7b-9c0c-10b63de322fd" />
 
-## 💡 **적용 가능성**
+<img width="1028" alt="image" src="https://github.com/user-attachments/assets/87baf6e0-2d29-4f92-9218-c8af5cf75643" />
+
+<img width="1027" alt="image" src="https://github.com/user-attachments/assets/646f7d55-9b35-49ed-8a3c-7835988240c0" />
+
+<img width="1019" alt="image" src="https://github.com/user-attachments/assets/fdaa82e7-30cc-4215-b1b5-45bad4874e25" />
+
+<img width="1020" alt="image" src="https://github.com/user-attachments/assets/9c5f4cdb-8ac1-4b3d-8d95-3adb890daa3f" />
+
+<img width="1021" alt="image" src="https://github.com/user-attachments/assets/74829c66-f741-4545-a535-6f91f5441ab5" />
+
+<img width="1031" alt="image" src="https://github.com/user-attachments/assets/b1ba8e9f-1a02-4215-b02f-777fed7ce5f1" />
+
+
+
+
+
+
+---
+
+## 💡 **분석 의의**
+- AI와 MLOps를 활용해 불량을 실시간으로 감지하고, 주요 요인을 빠르게 파악가능
+
+- 다양한 제조 업종으로 확장 가능하며, 자동화된 품질 관리 환경 구축이 가능
+
+- MLOps 고도화와 LLM 기반 프롬프트 엔지니어링을 통해 더 정밀한 원인 분석과 대응이 가능
+
+
 
 
 --- 
-## 구현방법
+## 직접 구현 방법
 ### 0. 환경설정
 ```{python}
 # conda 환경 생성
