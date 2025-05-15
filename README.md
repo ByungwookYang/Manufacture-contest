@@ -38,13 +38,17 @@
 
 <img width="657" alt="image" src="https://github.com/user-attachments/assets/531c53ac-fc3b-4119-a018-b8d79c1fbd39" />
 
-### 3) Level1 MLOPs 구현
+#### 3) Level1 MLOPs 구현
 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/03b5e5bd-a415-4d4d-8e40-721bf2f0e212" />
 
-### 4) 예측된 불량 원인 분석 LLM
+#### 4) 예측된 불량 원인 분석 LLM
 
 <img width="676" alt="image" src="https://github.com/user-attachments/assets/c323c192-1567-4221-bf5b-4e0d326d75bf" />
+
+#### 자세한 과정은 발표자료에 정리되어 있습니다.
+[경진대회_본선발표자료_fianl.pdf](https://github.com/user-attachments/files/17793440/_._fianl.pdf)
+
 
  
 # 구현방법
@@ -90,9 +94,6 @@ streamlit run dash.py
 위와 같이 터미널 창에서 실행하시면, 구현된 대시보드를 확인할 수 있습니다.
 
 자세한 배포과정 및 Lang chain 방법은 d_deployment 파일과 lang_chain_class.py, dash.py에서 확인할 수 있습니다.
-
-# 자세한 과정
-[경진대회_본선발표자료_fianl.pdf](https://github.com/user-attachments/files/17793440/_._fianl.pdf)
 
 
 
