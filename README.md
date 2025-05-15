@@ -27,6 +27,15 @@
 - LLM 챗봇 시스템을 이용해 불량으로 예측된 데이터에 대한 설명 요약
 - MLOPs를 이용한 유지보수 및 자동화
 
+---
+### 구현과정
+
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/93193fe0-0a18-4368-9e04-c0e3b6a13f18" />
+1) 데이터를 train/test 7:3 split
+
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/531c53ac-fc3b-4119-a018-b8d79c1fbd39" />
+
+
 
  
 # 구현방법
