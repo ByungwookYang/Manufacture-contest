@@ -54,7 +54,11 @@
 [경진대회_본선발표자료_fianl.pdf](https://github.com/user-attachments/files/17793440/_._fianl.pdf)
 
 ---
- 
+
+## 💡 **적용 가능성**
+
+
+--- 
 ## 구현방법
 ### 0. 환경설정
 ```{python}
