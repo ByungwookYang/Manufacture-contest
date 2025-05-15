@@ -1,5 +1,7 @@
 # 2024년 제4회 K-인공지능(AI) 제조데이터 분석 경진대회
-📌 공모전 개요 [대회 참고](https://www.kamp-ai.kr/contestNoticeDetail?CPT_NOTICE_SEQ=16)
+[대회 참고](https://www.kamp-ai.kr/contestNoticeDetail?CPT_NOTICE_SEQ=16)
+
+📌 **공모전 개요** 
 
 인공지능 중소벤처 제조플랫폼(KAMP) 내 등재된 제조AI데이터셋을 활용하여 중소 제조기업이 직면할 수 있는 공통문제*를 해결 또는 개선할 수 있는 우수한 인공지능 분석 모델 개발 
 
