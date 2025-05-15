@@ -1,7 +1,7 @@
 # MLOps와 LLM 기반 실시간 제조 공정 모니터링 및 불량 관리 플랫폼
 [대회 참고](https://www.kamp-ai.kr/contestNoticeDetail?CPT_NOTICE_SEQ=16)
 
-### 📌 **공모전 개요**
+## 📌 **공모전 개요**
 
 인공지능 중소벤처 제조플랫폼(KAMP) 내 등재된 제조AI데이터셋을 활용하여 중소 제조기업이 직면할 수 있는 공통문제를 해결 또는 개선할 수 있는 우수한 인공지능 분석 모델 개발 
 
@@ -10,48 +10,48 @@
  
 
 ---
-### 📣 **공모전 정보**
+## 📣 **공모전 정보**
 - **대회명 :** 2024년 제4회 K-인공지능(AI) 제조데이터 분석 경진대회
 - **주최기관 :** 중소벤처기업부, 스마트제조혁신추진단, KAIST
 - **진행기간 :** 20241002 - 20241127
 - **수상 :** 장려상 (6th / 189teams)
 
 ---
-### **문제 상황**
+## **문제 상황**
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/dd428f55-e661-41b8-bce3-1c6274d57c75" />
 
 
 ---
-### 🧠 **구현 아디이어**
+## 🧠 **구현 아디이어**
 - 생산성 향상 및 작업환경 개선을 위해 LLM 시스템 도입
 - LLM 챗봇 시스템을 이용해 불량으로 예측된 데이터에 대한 설명 요약
 - MLOPs를 이용한 유지보수 및 자동화
 
 ---
-### 구현과정
+## 구현과정
 
-#### 1) 데이터를 train/test 7:3 split
+### 1) 데이터를 train/test 7:3 split
 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/93193fe0-0a18-4368-9e04-c0e3b6a13f18" />
 
-#### 2) CatBoost Modeling
+### 2) CatBoost Modeling
 
 <img width="657" alt="image" src="https://github.com/user-attachments/assets/531c53ac-fc3b-4119-a018-b8d79c1fbd39" />
 
-#### 3) Level1 MLOPs 구현
+### 3) Level1 MLOPs 구현
 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/03b5e5bd-a415-4d4d-8e40-721bf2f0e212" />
 
-#### 4) 예측된 불량 원인 분석 LLM
+### 4) 예측된 불량 원인 분석 LLM
 
 <img width="676" alt="image" src="https://github.com/user-attachments/assets/c323c192-1567-4221-bf5b-4e0d326d75bf" />
 
-#### 자세한 과정은 발표자료에 정리되어 있습니다.
+### 자세한 과정은 발표자료에 정리되어 있습니다.
 [경진대회_본선발표자료_fianl.pdf](https://github.com/user-attachments/files/17793440/_._fianl.pdf)
 
 
  
-# 구현방법
+## 구현방법
 ### 0. 환경설정
 ```{python}
 # conda 환경 생성
