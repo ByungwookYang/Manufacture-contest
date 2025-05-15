@@ -1,4 +1,4 @@
-# MLOps와 LLM 기반 실시간 제조 공정 모니터링 및 불량 관리 플랫폼
+# MLOps와 LLM 기반 실시간 제조 공정 모니터링 및 불량 관리
 [대회 참고](https://www.kamp-ai.kr/contestNoticeDetail?CPT_NOTICE_SEQ=16)
 
 ## 📌 **공모전 개요**
